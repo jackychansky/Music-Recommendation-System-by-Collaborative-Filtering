@@ -33,7 +33,19 @@ To be updated
 - First 20 songs are used for generating recommended songs, the remaining 80 songs are used for evaluation
 - 100 songs will be recommended to the user as output, and then these 100 songs will be compared with the aforementioned 80 songs
 - Matching rate = Matched number of songs / total songs compared
-- For both of our test cases, the matching rate is around 20%, that means user will like the recommended songs 1 in 5
+- For both of our test cases, the matching rate is around 20%, that means user will like the recommended songs 1 in 5 time
+
+<table>
+  <tr>
+    <th>Test Case 1</th>
+    <th>Test Case 2</th>
+  </tr>
+  <tr>
+    <th><img src="testing_results/spotify_testcase1.JPG"></th>
+    <th><img src="testing_results/spotify_testcase2.JPG"></th>
+  </tr>
+  
+</table>
 
 ## References
 1. *Ching-Wei Chen, Paul Lamere, Markus Schedl, and Hamed Zamani. Recsys Challenge 2018: Automatic Music Playlist Continuation. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys ’18), 2018.*
