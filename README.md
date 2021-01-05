@@ -59,10 +59,10 @@ The thrive of reommendation system is observed in various business products acro
 1. *Ching-Wei Chen, Paul Lamere, Markus Schedl, and Hamed Zamani. Recsys Challenge 2018: Automatic Music Playlist Continuation. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys ’18), 2018.*
 
 ### Team Members
-KKbox RS:
+**KKbox RS:**
 Darren Cheng
 Gemma Lai
 
-Spotify RS:
+**Spotify RS:**
 Jacky Chan
 Tristan Young
