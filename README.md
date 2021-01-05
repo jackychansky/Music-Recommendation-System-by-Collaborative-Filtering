@@ -1,5 +1,6 @@
 # FTDS_Project3_MusicRecommendation
 Music Recommendation Using Datasets of Spotify and KKBox
+<p align="center"><img src="RSBG.png"></p>
 
 ## Music Recommendation System by Collabarative Filtering
 The thrive of reommendation system is observed in various business products across different industries. No matter it is online shopping, crowdfunding sites or subscription-based entertainments such as Netflix and Steam, an accurate recommendation system paves the way to vibrant user engagement and subsequently drive revenues effectively. In this project, we are constructing a music recommendation system based on the both Spotify and KKbox data. Spotify has been rolling out the "Discover Weekly" features for years which provide recommendation to users in a weekly basis. The aim of the project is to shred some light on such feature based on our own recommendation system and evaluate its accuracy.
