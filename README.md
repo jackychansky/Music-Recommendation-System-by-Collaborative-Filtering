@@ -10,12 +10,19 @@ The thrive of reommendation system is observed in various business products acro
 <a href="https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files">Spotify Million Dataset</a> [1] is provided in the Spotify Million Playlist Dataset Challenge. The dataset contains 1,000,000 playlists, including playlist titles and song titles within the playlist, created by users on Spotify between January 2010 and October 2017.
 
 #### - KKBox
-To be updated
+<a href="https://www.kaggle.com/c/kkbox-music-recommendation-challenge">KKbox Dataset</a> [2] is a music recommendation challenge held by WSDM in which the dataset is donated by KKbox, which holds the world’s most comprehensive Asia-Pop music library with over 30 million tracks. The dataset itself contains around 234,000 detailed information of songs including genre, artists names, song length etc.
 
 ## Data Preprocessing
+
+#### - Spotify
 - The Spotify dataset consists of 1,000 slice files, each slice file containing 1,000 playlists
 - We will use the first 10 slice files to construct our recommendation system, it could be scaled up with higher computational power
 - The slice files are converted from json format to python dataframe, containing all the playlists and corresponding songs
+
+#### - KKBox
+- The KKbox dataset consists of 234k songs information including whether the user has listened to the song once or more than once
+- The dataset lacks of information on the users' end information including playlists of users which could be a limitation for music recommendation since songs listened by the user are not categorized and in most cases users listen to various genres in which making music recommendation of the dataset would be less custom-made
+- We have used both of the recommendation systems for the dataset which are collaborative RS and content-based RS to explore and seek better results through comparison
 
 ## Recommendation System Structure
 - User inputs its favourite playlist into the recommendation system
