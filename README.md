@@ -1,4 +1,4 @@
-# FTDS Music Recommendation System of Spotify and KKbox
+# Music Recommendation System of Spotify and KKbox
 
 <p align="center"><img src="RSBG.png"></p>
 
